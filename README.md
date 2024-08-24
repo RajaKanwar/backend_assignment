@@ -92,6 +92,16 @@ python manage.py createsuperuser
 
 python manage.py runserver
 
+## SS
+
+![DB_status](https://github.com/user-attachments/assets/e9fa728e-5459-4960-804c-7142145a7288)
+![DB_owner](https://github.com/user-attachments/assets/261514b0-9425-4483-ae27-7f722238a2f4)
+![AWS_S3_bucket](https://github.com/user-attachments/assets/ed4d30a5-1357-41da-9bde-e5a94afcfd02)
+![run_server](https://github.com/user-attachments/assets/e577a8ba-99bf-40a0-8829-cde5f5226e34)
+![openAI_API_key](https://github.com/user-attachments/assets/a731c6e8-f207-4932-9a24-9a347e914f88)
+![image_app_tables](https://github.com/user-attachments/assets/5cd27661-5234-4f38-8d1e-afa9c2014de6)
+
+
 ## Conclusion
 
 This project demonstrates a full-stack approach to building a scalable, secure backend application integrated with external APIs. By following industry best practices and focusing on robustness, this project is well-prepared for deployment in a real-world environment.
